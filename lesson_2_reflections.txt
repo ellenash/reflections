@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+you create a place where metadata about versions of hte files will be saved
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it is different from the repository in that it is a temporary area for things that may be 
+changed. The repository is a record of all the files and changes. The wroking directory- I don't know what is that?
+is that the files without the metadata?
