@@ -7,3 +7,16 @@ How is the staging area different from the working directory and the repository?
 it is different from the repository in that it is a temporary area for things that may be 
 changed. The repository is a record of all the files and changes. The wroking directory- I don't know what is that?
 is that the files without the metadata?
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+by comparing the versions to make sureS
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+all changes are made from both branches into one
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+the pros are that it will merge for you
+the cons are that there may be conflicts- you may not get a whole picture of the code
