@@ -16,3 +16,8 @@ Why might you want to always pull changes manually rather than having Git automa
  
  I am adding more now to test my notepad config
  
+ What is the benefit of having a copy of the last known state of the remote 
+ stored locally?
+ 
+ in case you are off line or want to work off line on yourown computer, 
+ you can compare different branches locally.
