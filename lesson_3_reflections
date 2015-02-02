@@ -21,3 +21,9 @@ Why might you want to always pull changes manually rather than having Git automa
  
  in case you are off line or want to work off line on yourown computer, 
  you can compare different branches locally.
+ 
+ How would you collaborate without using Git or GitHub? What would be easier, and what
+ would be harder?
+ email files back and forth/ or post files online for viewing
+ github would be easier for this especially being able to see
+ changes/commits and that sort of thing
